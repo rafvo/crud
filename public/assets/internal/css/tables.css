@@ -1,0 +1,41 @@
+td,
+th {
+  border-bottom-width: 1px !important;
+  border-bottom-color: rgb(238, 244, 243) !important;
+  border-top: 1px solid #eef4f3 !important;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top-color: rgb(238, 244, 243) !important;
+  color: #414b4c !important;
+}
+
+th{
+  font-weight: 500!important;
+}
+
+table tbody tr:hover {
+  background-color: #f7f8fa !important;
+}
+  
+.table-bordered td, .table-bordered th{
+  border: none;
+}
+
+td, th {
+  border-top: 1px solid #eef4f3 !important;
+}
+
+table tbody tr:hover {
+  background-color: #f7f8fa !important;
+}
+
+table.dataTable {
+  border-collapse: collapse!important;
+}
+
+.page-item.active .page-link {
+  color: #fff;
+  background-color: #212121 !important;
+  border-color: #212121 !important;
+}
+

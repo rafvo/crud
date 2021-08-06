@@ -1,0 +1,39 @@
+.resize-none{
+    resize: none;
+}
+.form-control{
+    font-size: .9rem!important;
+}
+
+.form-control:focus{
+    box-shadow: unset!important;
+    border: 1px solid #90caf9;
+    
+}
+
+label{
+    font-size: .8rem!important;
+    color: #212121!important;
+}
+
+label.error {
+    font-size: 80%;
+    color: #dc3545!important;
+}
+
+input.error {
+    border-color: #dc3545!important;
+}
+
+select.error {
+    border-color: #dc3545!important;
+}
+  
+.dropdown-menu{
+    font-size: .9rem!important;
+}
+
+
+.datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover, .datepicker table tr td.active:active, .datepicker table tr td.active:hover:active, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover.active, .datepicker table tr td.active.disabled, .datepicker table tr td.active:hover.disabled, .datepicker table tr td.active.disabled.disabled, .datepicker table tr td.active.disabled:hover.disabled, .datepicker table tr td.active[disabled], .datepicker table tr td.active:hover[disabled], .datepicker table tr td.active.disabled[disabled], .datepicker table tr td.active.disabled:hover[disabled] {
+    color: #fff!important;
+}

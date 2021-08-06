@@ -1,0 +1,19 @@
+.card{
+    font-size: .9rem!important;
+}
+
+.card-header {
+    background-color: #fff!important;
+}
+
+.bg-primary{
+    background: #1b5bbd !important;
+}   
+
+.sprint-card-footer{
+    padding: .6rem .4rem !important;
+}
+
+.wizard > .content{
+    background: #fff!important;
+}
